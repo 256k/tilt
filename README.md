@@ -7,7 +7,7 @@
 
  - A script by 256k
 
-          ___________________
+          __________________
          / o o o o o o o o / 
         / o o o o o o o o / 
        / o o o o o o o o / 
